@@ -9,3 +9,5 @@ my personal tech blog,not regularly updated
 ### React相关
 
 - [如何在React中做Ajax 请求](https://github.com/hawx1993/tech-blog/issues/1)
+
+- [解决mac os sierra webstrom 触摸板过于敏感的问题](https://github.com/hawx1993/tech-blog/issues/2)
