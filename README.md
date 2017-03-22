@@ -6,6 +6,8 @@ my personal tech blog,not regularly updated
 
 ## 文章列表
 
+文章不再倾向于大而全了，转而倾向于记录项目中遇到的问题。这样既能保证数量，也能保证质量。有感兴趣的欢迎关注！！！
+
 ### React相关
 
 - [如何在React中做Ajax 请求](https://github.com/hawx1993/tech-blog/issues/1)
