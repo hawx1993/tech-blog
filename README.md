@@ -14,7 +14,7 @@ my personal tech blog,not regularly updated
 
 ### Vue 相关
 
-- [也谈Vue生命周期](https://github.com/hawx1993/tech-blog/issues/6)
+- [也谈Vue2.0生命周期和路由](https://github.com/hawx1993/tech-blog/issues/6)
 
 ### webpack 相关
 
@@ -29,6 +29,10 @@ my personal tech blog,not regularly updated
 ### ECMAScript6 相关
 
 - [Promise 探索与实践](https://github.com/hawx1993/tech-blog/issues/7)
+
+### git相关
+
+- [git实用命令](https://github.com/hawx1993/tech-blog/issues/8)
 
 ### 其他
 
