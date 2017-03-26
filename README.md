@@ -6,7 +6,7 @@ my personal tech blog,not regularly updated
 
 ## 文章列表
 
-文章不再倾向于大而全了，转而倾向于记录项目中遇到的问题。这样既能保证数量，也能保证质量。有感兴趣的欢迎关注！！！
+记录一些平时项目中遇到的比较值得深入探讨的文章，偶尔发点知识性文章，欢迎关注
 
 ### React相关
 
@@ -26,6 +26,9 @@ my personal tech blog,not regularly updated
 
 - [使用HTML5 canvas 绘图的一些总结](https://github.com/hawx1993/tech-blog/issues/5)
 
+### ECMAScript6 相关
+
+- [Promise 探索与实践](https://github.com/hawx1993/tech-blog/issues/7)
 
 ### 其他
 
