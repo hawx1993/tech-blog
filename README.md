@@ -20,7 +20,7 @@ my personal tech blog,not regularly updated
 
 - [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3)
 
-- [[旧文]也谈 webpack 及其开发模式](https://github.com/hawx1993/tech-blog/issues/4)
+- [也谈 webpack 及其开发模式](https://github.com/hawx1993/tech-blog/issues/4)
 
 ### HTML5相关
 
@@ -29,7 +29,7 @@ my personal tech blog,not regularly updated
 ### ECMAScript6 相关
 
 - [Promise 探索与实践](https://github.com/hawx1993/tech-blog/issues/7)
-- [你不知道的es6](https://github.com/hawx1993/tech-blog/issues/9)
+- [你不知道的ECMAScript6 ](https://github.com/hawx1993/tech-blog/issues/9)
 
 ### git相关
 
