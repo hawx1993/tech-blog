@@ -29,6 +29,7 @@ my personal tech blog,not regularly updated
 ### ECMAScript6 相关
 
 - [Promise 探索与实践](https://github.com/hawx1993/tech-blog/issues/7)
+- [你不知道的es6](https://github.com/hawx1993/tech-blog/issues/9)
 
 ### git相关
 
