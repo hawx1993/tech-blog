@@ -30,6 +30,7 @@ my personal tech blog,not regularly updated
 
 - [Promise 探索与实践](https://github.com/hawx1993/tech-blog/issues/7)
 - [你不知道的ECMAScript6 ](https://github.com/hawx1993/tech-blog/issues/9)
+- [异步JavaScript与es6](https://github.com/hawx1993/tech-blog/issues/10)
 
 ### git相关
 
