@@ -15,6 +15,7 @@ my personal tech blog,not regularly updated
 ### Vue 相关
 
 - [也谈Vue2.0生命周期和路由](https://github.com/hawx1993/tech-blog/issues/6)
+- [关于vue2.0 的实现源码剖析(一)](https://github.com/hawx1993/tech-blog/issues/11)
 
 ### webpack 相关
 
