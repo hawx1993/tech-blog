@@ -6,7 +6,7 @@ my personal tech blog,not regularly updated
 
 ## 文章列表
 
-记录一些平时项目中遇到的比较值得深入探讨的文章，偶尔发点知识性文章，欢迎关注
+记录一些平时项目中遇到的比较值得深入探讨的文章， 欢迎关注
 
 ### React相关
 
@@ -37,6 +37,10 @@ my personal tech blog,not regularly updated
 
 - [git实用命令](https://github.com/hawx1993/tech-blog/issues/8)
 
+### CSS相关
+
+- [关于css水平垂直居中的总结](https://github.com/hawx1993/tech-blog/issues/12)
+
 ### 其他
 
 
@@ -46,7 +50,7 @@ my personal tech blog,not regularly updated
 
 >旧博客地址
 
-可能不再更新
+不再更新
 
 - https://segmentfault.com/u/trigkit4/articles
 - http://hawx1993.github.io/
