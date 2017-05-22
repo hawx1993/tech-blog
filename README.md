@@ -46,7 +46,7 @@ my personal tech blog,not regularly updated
 
 - [解决mac os sierra webstrom 触摸板过于敏感的问题](https://github.com/hawx1993/tech-blog/issues/2)
 
-
+- [前端异常捕获与错误处理](https://github.com/hawx1993/tech-blog/issues/13)
 
 >旧博客地址
 
