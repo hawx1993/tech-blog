@@ -8,6 +8,9 @@ my personal tech blog,not regularly updated
 
 记录一些平时项目中遇到的比较值得深入探讨的文章， 欢迎关注
 
+### Node.js 相关
+
+- [Node.js学习笔记](https://github.com/hawx1993/tech-blog/issues/14)
 ### React相关
 
 - [如何在React中做Ajax 请求](https://github.com/hawx1993/tech-blog/issues/1)
