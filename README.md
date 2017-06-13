@@ -11,6 +11,8 @@ my personal tech blog,not regularly updated
 ### Node.js 相关
 
 - [Node.js学习笔记](https://github.com/hawx1993/tech-blog/issues/14)
+- [你需要知道的Node.js Child Processes](https://github.com/hawx1993/tech-blog/issues/15)
+
 ### React相关
 
 - [如何在React中做Ajax 请求](https://github.com/hawx1993/tech-blog/issues/1)
