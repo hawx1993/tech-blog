@@ -38,6 +38,11 @@ my personal tech blog,not regularly updated
 - [你不知道的ECMAScript6 ](https://github.com/hawx1993/tech-blog/issues/9)
 - [异步JavaScript与es6](https://github.com/hawx1993/tech-blog/issues/10)
 
+### js相关
+
+- [你不知道的JavaScript](https://github.com/hawx1993/tech-blog/issues/16)
+
+
 ### git相关
 
 - [git实用命令](https://github.com/hawx1993/tech-blog/issues/8)
@@ -48,10 +53,11 @@ my personal tech blog,not regularly updated
 
 ### 其他
 
+- [前端异常捕获与错误处理](https://github.com/hawx1993/tech-blog/issues/13)
 
 - [解决mac os sierra webstrom 触摸板过于敏感的问题](https://github.com/hawx1993/tech-blog/issues/2)
 
-- [前端异常捕获与错误处理](https://github.com/hawx1993/tech-blog/issues/13)
+
 
 >旧博客地址
 
