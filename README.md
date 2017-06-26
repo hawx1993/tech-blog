@@ -16,6 +16,7 @@ my personal tech blog,not regularly updated
 ### React相关
 
 - [如何在React中做Ajax 请求](https://github.com/hawx1993/tech-blog/issues/1)
+- [react 和 vue深入对比](https://github.com/hawx1993/tech-blog/issues/17)
 
 ### Vue 相关
 
