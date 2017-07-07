@@ -1,10 +1,8 @@
 # tech-blog
 my personal tech blog,not regularly updated
 
->博客目录：https://github.com/hawx1993/tech-blog/issues
-
->旧博客地址
-
+>博客
+- https://github.com/hawx1993/tech-blog/issues
 - https://segmentfault.com/u/trigkit4/articles
 - http://hawx1993.github.io/
 
