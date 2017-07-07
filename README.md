@@ -44,7 +44,7 @@ my personal tech blog,not regularly updated
 ### js相关
 
 - [你不知道的JavaScript](https://github.com/hawx1993/tech-blog/issues/16)
-
+- [co函数库源码解析](https://github.com/hawx1993/tech-blog/issues/18)
 
 ### git相关
 
