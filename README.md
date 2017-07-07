@@ -3,6 +3,10 @@ my personal tech blog,not regularly updated
 
 >博客目录：https://github.com/hawx1993/tech-blog/issues
 
+>旧博客地址
+
+- https://segmentfault.com/u/trigkit4/articles
+- http://hawx1993.github.io/
 
 ## 文章列表
 
@@ -60,9 +64,4 @@ my personal tech blog,not regularly updated
 
 
 
->旧博客地址
 
-不再更新
-
-- https://segmentfault.com/u/trigkit4/articles
-- http://hawx1993.github.io/
