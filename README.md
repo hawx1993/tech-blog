@@ -1,60 +1,60 @@
 # tech-blog
 my personal tech blog,not regularly updated
 
->博客
+>My other blogs
 - https://github.com/hawx1993/tech-blog/issues
 - https://segmentfault.com/u/trigkit4/articles
 - http://hawx1993.github.io/
 
-## 文章列表
+## Article list
 
 记录一些平时项目中遇到的比较值得深入探讨的文章， 欢迎关注
 
-### Node.js 相关
+### About Node.js  
 
 - [Node.js学习笔记](https://github.com/hawx1993/tech-blog/issues/14)
 - [你需要知道的Node.js Child Processes](https://github.com/hawx1993/tech-blog/issues/15)
 
-### React相关
+### About React
 
 - [如何在React中做Ajax 请求](https://github.com/hawx1993/tech-blog/issues/1)
 - [react 和 vue深入对比](https://github.com/hawx1993/tech-blog/issues/17)
 
-### Vue 相关
+### About Vue 
 
 - [也谈Vue2.0生命周期和路由](https://github.com/hawx1993/tech-blog/issues/6)
 - [关于vue2.0 的实现源码剖析(一)](https://github.com/hawx1993/tech-blog/issues/11)
 
-### webpack 相关
+### About webpack  
 
 - [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3)
 
 - [也谈 webpack 及其开发模式](https://github.com/hawx1993/tech-blog/issues/4)
 
-### HTML5相关
+### About HTML5 
 
 - [使用HTML5 canvas 绘图的一些总结](https://github.com/hawx1993/tech-blog/issues/5)
 
-### ECMAScript6 相关
+### About ECMAScript6  
 
 - [Promise 探索与实践](https://github.com/hawx1993/tech-blog/issues/7)
 - [你不知道的ECMAScript6 ](https://github.com/hawx1993/tech-blog/issues/9)
 - [异步JavaScript与es6](https://github.com/hawx1993/tech-blog/issues/10)
 
-### js相关
+### About js 
 
 - [你不知道的JavaScript](https://github.com/hawx1993/tech-blog/issues/16)
 - [co函数库源码解析](https://github.com/hawx1993/tech-blog/issues/18)
 
-### git相关
+### About git 
 
 - [git实用命令](https://github.com/hawx1993/tech-blog/issues/8)
 
-### CSS相关
+### About CSS 
 
 - [关于css水平垂直居中的总结](https://github.com/hawx1993/tech-blog/issues/12)
 
-### 其他
+### Other
 
 - [前端异常捕获与错误处理](https://github.com/hawx1993/tech-blog/issues/13)
 
