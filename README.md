@@ -17,6 +17,7 @@ my personal tech blog,not regularly updated
 
 ### About React
 
+- [理解和学习mobx-react ](https://github.com/hawx1993/tech-blog/issues/19)
 - [如何在React中做Ajax 请求](https://github.com/hawx1993/tech-blog/issues/1)
 - [react 和 vue深入对比](https://github.com/hawx1993/tech-blog/issues/17)
 
