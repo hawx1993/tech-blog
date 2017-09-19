@@ -1,5 +1,5 @@
 # tech-blog
-my personal tech blog,not regularly updated about react,vue,es6,node,css,webpack,git and others.
+my personal tech blog,not regularly updated about `react`,`vue`,`es6`,`node`,`css`,`webpack`,`git` and others.
 
 ![](img/Blog-designer.jpg)
 
