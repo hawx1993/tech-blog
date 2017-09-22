@@ -3,10 +3,7 @@
 my personal tech blog,not regularly updated about `react`,`vue`,`es6`,`node`,`css`,`webpack`,`git` and others.
 
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/vot3Uhcjmh3Jtdd4TEAQqLBv/HanMhui/tech-blog'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/vot3Uhcjmh3Jtdd4TEAQqLBv/HanMhui/tech-blog.svg' />
-</a>
-
+ 
 
 ![](img/Blog-designer.jpg)
 
