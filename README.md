@@ -32,6 +32,7 @@ my personal tech blog,not regularly updated about `react`,`vue`,`es6`,`node`,`cs
 - [如何在React中做Ajax 请求](https://github.com/hawx1993/tech-blog/issues/1)
 - [react 和 vue深入对比](https://github.com/hawx1993/tech-blog/issues/17)
 - [Immutuable data和函数式在React中的应用](https://github.com/hawx1993/tech-blog/issues/20)
+- [漫谈Redux & React-Redux 设计精髓](https://github.com/hawx1993/tech-blog/issues/21)
 
 #### | Vue
 
