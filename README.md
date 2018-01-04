@@ -13,10 +13,6 @@ my personal tech blog,not regularly updated about `react`,`vue`,`es6`,`node`,`cs
 * https://segmentfault.com/u/trigkit4/articles
 * http://hawx1993.github.io/
 
-#### | Node.js  
-
-- 2017/06/06 [Node.js学习笔记 ](https://github.com/hawx1993/tech-blog/issues/14)
-- 2017/0613 [你需要知道的Node.js Child Processes](https://github.com/hawx1993/tech-blog/issues/15)
 
 #### | JS
 
@@ -45,22 +41,25 @@ my personal tech blog,not regularly updated about `react`,`vue`,`es6`,`node`,`cs
 
 - 2017/02/20 [也谈 webpack 及其开发模式](https://github.com/hawx1993/tech-blog/issues/4)
 
+#### | Node.js
+
+- 2017/06/06 [Node.js学习笔记 ](https://github.com/hawx1993/tech-blog/issues/14)
+- 2017/0613 [你需要知道的Node.js Child Processes](https://github.com/hawx1993/tech-blog/issues/15)
+
 #### | HTML5
 
 - 2017/03/17 [使用HTML5 canvas 绘图的一些总结](https://github.com/hawx1993/tech-blog/issues/5)
 
 
-
-#### | git
-
-- 2017/03/26 [git实用命令](https://github.com/hawx1993/tech-blog/issues/8)
-
 #### | CSS
 
 - 2017/05/05 [关于css水平垂直居中的总结](https://github.com/hawx1993/tech-blog/issues/12)
+
 
 #### | Other
 
 - 2017/03/22 [前端异常捕获与错误处理](https://github.com/hawx1993/tech-blog/issues/13)
 
 - 2017/10/11 [解决mac os sierra webstrom 触摸板过于敏感的问题](https://github.com/hawx1993/tech-blog/issues/2)
+
+- 2017/03/26 [git实用命令](https://github.com/hawx1993/tech-blog/issues/8)
