@@ -37,7 +37,7 @@ my personal tech blog,not regularly updated about `react`,`vue`,`es6`,`node`,`cs
 #### | Vue
 
 - 2017/03/22 [也谈Vue2.0生命周期和路由](https://github.com/hawx1993/tech-blog/issues/6)
-- 2017/05/04 [关于vue2.0 的实现源码剖析(一)](https://github.com/hawx1993/tech-blog/issues/11)
+- 2017/05/04 [关于vue2.0 的实现源码剖析](https://github.com/hawx1993/tech-blog/issues/11)
 
 #### | Webpack  
 
@@ -53,14 +53,14 @@ my personal tech blog,not regularly updated about `react`,`vue`,`es6`,`node`,`cs
 
 #### | git
 
-- [git实用命令](https://github.com/hawx1993/tech-blog/issues/8)
+- 2017/03/26 [git实用命令](https://github.com/hawx1993/tech-blog/issues/8)
 
 #### | CSS
 
-- [关于css水平垂直居中的总结](https://github.com/hawx1993/tech-blog/issues/12)
+- 2017/05/05 [关于css水平垂直居中的总结](https://github.com/hawx1993/tech-blog/issues/12)
 
 #### | Other
 
-- [前端异常捕获与错误处理](https://github.com/hawx1993/tech-blog/issues/13)
+- 2017/03/22 [前端异常捕获与错误处理](https://github.com/hawx1993/tech-blog/issues/13)
 
-- [解决mac os sierra webstrom 触摸板过于敏感的问题](https://github.com/hawx1993/tech-blog/issues/2)
+- 2017/10/11 [解决mac os sierra webstrom 触摸板过于敏感的问题](https://github.com/hawx1993/tech-blog/issues/2)
