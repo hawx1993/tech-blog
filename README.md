@@ -21,7 +21,7 @@ my personal tech blog,not regularly updated about `react`,`vue`,`es6`,`node`,`cs
 - 2017/05/04 [异步JavaScript与es6](https://github.com/hawx1993/tech-blog/issues/10)
 - 2017/06/26 [你不知道的JavaScript](https://github.com/hawx1993/tech-blog/issues/16)
 - 2017/07/07 [co函数库源码解析](https://github.com/hawx1993/tech-blog/issues/18)
-- 2018/05/31 [TypeScript](https://github.com/hawx1993/tech-blog/issues/23)
+- 2018/05/31 [TypeScript 珠玑](https://github.com/hawx1993/tech-blog/issues/23)
 #### | React
 
 - 2017/09/08 [理解和学习mobx-react ](https://github.com/hawx1993/tech-blog/issues/19)
