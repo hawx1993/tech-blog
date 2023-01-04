@@ -15,7 +15,7 @@ my personal tech blog,not regularly updated about `react`,`vue`,`es6`,`node`,`cs
 
 - 2017/10/19 [基于webpack 简单易上手的mock方案](https://github.com/hawx1993/tech-blog/issues/31)
 - 2019/12/15 [On the development of large PWA and Spa applications, our exploration in project engineering and architecture](https://github.com/hawx1993/tech-blog/issues/25)
-- 2022/11/13 (前端性能优化体系基础)[https://github.com/hawx1993/tech-blog/issues/29]
+- 2022/11/13 [前端性能优化体系基础](https://github.com/hawx1993/tech-blog/issues/29)
 - 2017/02/13 [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3)
 - 2017/02/20 [也谈 webpack 及其开发模式](https://github.com/hawx1993/tech-blog/issues/4)
 - 2022/12/02 [Webpack 5.0 项目优化方案实践](https://github.com/hawx1993/tech-blog/issues/27)
