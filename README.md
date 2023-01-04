@@ -13,6 +13,9 @@ my personal tech blog,not regularly updated about `react`,`vue`,`es6`,`node`,`cs
 * https://segmentfault.com/u/trigkit4/articles
 * http://hawx1993.github.io/
 
+#### Engineering
+
+- 2019/12/15 [On the development of large PWA and Spa applications, our exploration in project engineering and architecture](https://github.com/hawx1993/tech-blog/issues/25)
 
 #### | JS
 
