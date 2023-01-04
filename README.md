@@ -38,7 +38,8 @@ my personal tech blog,not regularly updated about `react`,`vue`,`es6`,`node`,`cs
 - 2017/06/26 [react 和 vue深入对比](https://github.com/hawx1993/tech-blog/issues/17)
 - 2017/12/04 [Immutuable data和函数式在React中的应用](https://github.com/hawx1993/tech-blog/issues/20)
 - 2017/12/28 [漫谈Redux & React-Redux 设计精髓](https://github.com/hawx1993/tech-blog/issues/21)
-- 2022/11/09  [谈谈react hooks UI与业务逻辑分离的必要性与技术方案](https://github.com/hawx1993/tech-blog/issues/28)
+- 2022/11/09 [谈谈react hooks UI与业务逻辑分离的必要性与技术方案](https://github.com/hawx1993/tech-blog/issues/28)
+- 2023/01/04 [深入理解React Fiber机制](https://github.com/hawx1993/tech-blog/issues/32)
 
 #### | Vue
 
